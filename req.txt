@@ -1,0 +1,8 @@
+python-telegram-bot>=20.1,<21.0
+telethon>=1.30.0
+pyrogram>=2.0.0
+colorama>=0.4.6
+termcolor>=2.3.0
+pyfiglet>=0.8.0
+python-dotenv>=1.0.0
+
